@@ -13,6 +13,8 @@ Target: x86_64-unknown-linux-gnu
 Qt Creator 4.6.2
 ClangCodeModel 4.6.2
 ClangStaticAnalyzer 4.6.2
+
+cmake version 3.13.1
 ```
 
 
